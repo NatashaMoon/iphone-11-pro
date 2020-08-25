@@ -1,0 +1,28 @@
+h1 {
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.description {
+    margin-left: 20px;
+}
+
+img {
+    max-width: 400px;
+}
+
+.price {
+    color: red;
+    font-size: 50px;
+    text-align: center;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-around;
+}
